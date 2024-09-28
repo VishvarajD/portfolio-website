@@ -1,2 +1,1 @@
-# html-portfolio
-## new edition are open
+portfolio which tells about my professional being
